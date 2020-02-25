@@ -120,8 +120,7 @@ public class Listy {
         list.wstaw("Szoste", l1);
         list.drukuj(l1);
         Node l2 = list.bezpowtorzen(l1); // l2 - l1 bez powtorzen
-        //list.print(l2);
+        list.drukuj(l2);
         Node l3 = list.scal(l1,l2); // l3 - scalona lista l1 z l2
-        //list.print(l3);
     }
 }
