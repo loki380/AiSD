@@ -1,5 +1,4 @@
-# Algorytmy i Struktury Danych
-# Algorithms Data Structures
+# Algorithms and Data Structures
 ## Used languages
 - C
 - Java
