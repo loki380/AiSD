@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59b6ee76-d0e8-4476-b179-f21ba96b586a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtJMehJeq6sYYmznvr84e9vI3E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.LongestCommonSubsequence">
+    <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestCommonSubsequence" />
+      <module name="LCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonSubsquence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestCommonSubsquence" />
+      <module name="LCS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LongestCommonSubsequence" />
+        <item itemvalue="Application.LongestCommonSubsquence" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59b6ee76-d0e8-4476-b179-f21ba96b586a" name="Default Changelist" comment="" />
+      <created>1583755910865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583755910865</updated>
+      <workItem from="1583755912735" duration="4349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="261" width="848" height="677" key="#Project_Structure" timestamp="1583755919223">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2472" y="261" width="848" height="677" key="#Project_Structure/67.27.1853.1053/1920.0.1920.1200@1920.0.1920.1200" timestamp="1583755919223" />
+    <state x="2721" y="491" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583756316786">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2721" y="491" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053/1920.0.1920.1200@1920.0.1920.1200" timestamp="1583756316786" />
+    <state width="1874" height="327" key="GridCell.Tab.0.bottom" timestamp="1583760262692">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1874" height="327" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1200@1920.0.1920.1200" timestamp="1583760262692" />
+    <state width="1874" height="327" key="GridCell.Tab.0.center" timestamp="1583760262692">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1874" height="327" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1200@1920.0.1920.1200" timestamp="1583760262692" />
+    <state width="1874" height="327" key="GridCell.Tab.0.left" timestamp="1583760262692">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1874" height="327" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1200@1920.0.1920.1200" timestamp="1583760262692" />
+    <state width="1874" height="327" key="GridCell.Tab.0.right" timestamp="1583760262692">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1874" height="327" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1200@1920.0.1920.1200" timestamp="1583760262692" />
+  </component>
+</project>
